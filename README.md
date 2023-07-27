@@ -1,8 +1,8 @@
-# modal-reactjs
-The Modal component uses react typescript, tailwind css.
+# Modal reactjs
+The Modal component uses react typescript and tailwind CSS.
 
 ### Example of the component calling setup
-Before you use this code make sure you already have a project next js or react js with typescript.
+Before you use this code make sure you already have a project next js or react js with typescript and tailwind CSS.
 
 example of calling the component:
 ```
